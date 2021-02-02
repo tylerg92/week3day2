@@ -15,7 +15,7 @@ h3 {
     font-weight: lighter;
 }
 ul {
-    float: right;
+    align-self: flex-end;
     margin: 30px 50px 30px auto;
     font-size: 20px;
     font-weight: lighter;
@@ -29,7 +29,7 @@ a {
 display: flex;
 margin: 50px 150px;
 padding: 20px;
-position: static;
+flex-wrap: nowrap;
 }
 .dashboard {
 border: 2px solid #e6b71e;
