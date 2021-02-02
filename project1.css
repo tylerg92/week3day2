@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background-color: #fffede;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav{
+background-color: #e6b71e;
+display: flex;
+margin: -8px;
+}
+h3 {
+    font-size: 20px;
+    margin: 30px 40px;
+    color: white;
+    font-weight: lighter;
+}
+ul {
+    float: right;
+    margin: 30px 50px 30px auto;
+    font-size: 20px;
+    font-weight: lighter;
+}
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.content {
+display: flex;
+margin: 50px 150px;
+padding: 20px;
+position: static;
+}
+.dashboard {
+border: 2px solid #e6b71e;
+border-radius: 5px;
+background-color: white;
+margin: 20px;
+    height: fit-content;
+    padding: 20px;
+    width: 260px;
+}
+.budget{
+    border: 2px solid #e6b71e;
+    border-radius: 5px;
+    background-color: white;
+    margin: 20px;
+    height: fit-content;
+    padding: 20px;
+    width: 260px;
+}
+.checkbooks {
+    border: 2px solid #e6b71e;
+    border-radius: 5px;
+    background-color: white;
+    margin: 20px;
+    height: fit-content;
+    padding: 20px;
+    width: 260px;
+}
+.money {
+    border: 2px solid #e6b71e;
+    border-radius: 5px;
+    background-color: white;
+    margin: 20px;
+    height: fit-content;
+    padding: 20px;
+    width: 260px;
+}
+p {
+font-size: small;
+font-weight: lighter;
+text-align: left;
+}
+button {
+    width: 250px;
+    height: 40px;
+    border: none;
+    background-color: #e6b71e;
+    color: white;
+}
